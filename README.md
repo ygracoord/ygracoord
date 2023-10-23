@@ -1,7 +1,7 @@
 QA Engineer
 -----------
 
-*   🧠  I'm learning Selenium
+🧠  I'm learning Selenium
 
 ### Skills 
 <p align="left">
