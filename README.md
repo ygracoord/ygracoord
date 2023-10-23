@@ -1,9 +1,9 @@
 QA Engineer
 -----------
 
-Age: 29
-Marital status: single
-Zodiac sign: aries
+* Age: 29
+* Marital status: single
+* Zodiac sign: aries
 
 🧠  I'm learning Selenium
 
