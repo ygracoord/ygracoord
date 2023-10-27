@@ -2,9 +2,9 @@ QA Engineer ![Static Badge](https://img.shields.io/badge/Junior-black)
 
 -----------
 
-* Age: 29
-* Marital status: single
-* Zodiac sign: aries
+| Age   | Marital status    | Zodiac sign   |
+|------------|------------|------------|
+| 29    | single  | aries  |
 
 🧠  I'm learning Selenium
 
