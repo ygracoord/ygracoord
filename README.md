@@ -1,4 +1,5 @@
-QA Engineer
+QA Engineer ![Static Badge](https://img.shields.io/badge/Junior-black)
+
 -----------
 
 * Age: 29
