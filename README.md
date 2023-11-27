@@ -1,10 +1,8 @@
-## QA Engineer ![Static Badge](https://img.shields.io/badge/Junior-black)
+## QA Engineer ![Static Badge](https://img.shields.io/badge/Middle-black)
 
 | Age   | Zodiac sign   | Hobby |
 |------------|------------|------------|
 | 29    | aries  | swimming |
-
-🧠  I'm learning Selenium
 
 ### Skills 
 <p align="left">
